@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thiago França and I'm a web full stack developer  from  Brazil/<br>Meu nome é Thiago França e eu sou um desenvolvedor web full stack do Brasil <br><br>I'm the daddy of Maria Alice and the Ana Luiza's husband. / Sou papai da maria alice e Marido da Ana Luiza<br><br>Ever disposed to help everybody with my knowledge and my know how.<br>I dream to be a reference of development one day... /sempre disposto a ajudar todo mundo com meus conhecimento e meu Know How. Eu sonho  em ser uma referência em desenvolvimento um dia...</p>
+<p align="left">My name is Thiago França and I'm a web full stack developer  from  Brazil/<br>Meu nome é Thiago França e eu sou um desenvolvedor web full stack do Brasil <br><br>I'm the daddy of Maria Alice and the Ana Luiza's husband. / Sou papai da Maria Alice e Marido da Ana Luiza<br><br>Ever disposed to help everybody with my knowledge and my know how.<br>I dream to be a reference of development one day... /sempre disposto a ajudar todo mundo com meus conhecimento e meu Know How. Eu sonho  em ser uma referência em desenvolvimento um dia...</p>
 
 ###
 
