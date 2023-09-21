@@ -57,7 +57,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ThiagoFranca4180/ThiagoFranca4180/output/snake.svg" alt="Snake animation" />
-
-###
