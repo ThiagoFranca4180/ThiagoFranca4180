@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since april 2022/Criando bugs: desde Abril de 2022<br>📚 I'm currently learning full satck development in GrowDev/ eu estou aprendendo atualmente:  desenvolvimento full stack na GrowDev<br>🎯 Goals: be a developer to help another people/Objetivo: ser um desenvolvedor para ajudar outras pessoas<br>🎲 Fun fact: i'm a lover of Dota 2, Pubg and Sea of thieves/fato engraçado: sou um amante de Dota2 Pubg e Sea of thieves</p>
+<p align="left">✨ Creating bugs since april 2022/Criando bugs: desde Abril de 2022<br>📚 I'm currently learning full stack development in GrowDev/ eu estou aprendendo atualmente:  desenvolvimento full stack na GrowDev<br>🎯 Goals: be a developer to help another people/Objetivo: ser um desenvolvedor para ajudar outras pessoas<br>🎲 Fun fact: i'm a lover of Dota 2, Pubg and Sea of thieves/fato engraçado: sou um amante de Dota2 Pubg e Sea of thieves</p>
 
 ###
 
